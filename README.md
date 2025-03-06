@@ -83,13 +83,6 @@
 <br/>
 
 
-## Languages
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangLyndon&layout=compact&theme=tokyonight)
-
-</div>
-
  
 
 <div align="center">
